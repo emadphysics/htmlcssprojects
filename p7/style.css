@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+div{
+    color: rgb(19, 2, 2);
+}
+
+
+.one{
+    background: red;
+    height: 100px;
+    width: 100px;
+}
+
+.two {
+    background-color: blue;
+    height: 100px;
+    width: 100px
+}
+
+.three {
+    background: yellow;
+    height: 100px;
+    width: 100px;
+    padding: 20px
+}
+

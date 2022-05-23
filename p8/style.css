@@ -1,0 +1,36 @@
+/* a {
+    text-decoration: double;
+    text-shadow: 20px;
+    font-weight: 20px;
+    font-size: large;
+    letter-spacing: 1px;
+    margin: 100px;
+    background: rgb(90, 11, 11);
+    color: white;
+    padding: 20px;
+    outline: 15px 20px;
+    outline-offset: -15px;
+    outline-color: chartreuse;
+    outline-style: solid;
+    
+} */
+
+a {
+    text-decoration: double;
+ text-align: center;
+    font-size: large;
+    letter-spacing: 1px;
+    margin: 100px;
+    background: rgb(90, 11, 11);
+    color: white;
+    height: 50px;
+    width: 75px;
+    outline: 15px 20px;
+    outline-offset: -4px;
+    outline-color: chartreuse;
+    outline-style: solid;
+    display: block;
+    padding-top: 23px;
+    
+}
+
