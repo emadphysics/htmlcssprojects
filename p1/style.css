@@ -1,0 +1,26 @@
+
+
+body{
+    background: rgb(224, 210, 238) ;
+}
+
+/* h3{
+    font: 20px;
+    color:blue
+} */
+/* alternative way */
+div h3 {
+    font: 20px;
+    color: blue
+
+}
+p{
+    color: rgb(38, 56, 50);
+}
+
+.container{
+    background: whitesmoke;
+}
+.spcial {
+background: black;
+}

@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+}
+
+
+
+
+.navbar{
+    background: rebeccapurple;
+    color: white;
+    height: 4rem;
+    font-size: 2rem;
+}
+
+
+
+
+
+
+.banner{
+    background: red;
+    /* height: calc(100vh - 4rem); */
+    min-height: calc(100vh - 4rem); 
+    
+}
+
+.foot{
+    background: rgb(52, 165, 42);
+    height: 25rem;
+    width:10rem;
+    overflow: scroll;
+}
