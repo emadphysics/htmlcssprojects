@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding:0px
+}
+
+.links a{
+    color: red;
+    text-transform: uppercase;
+    background: green;
+    padding: 20px 25px;
+    margin: 0 20px;
+}
+
+.links{
+    margin: 20rem;
+}
+
+.one {
+    border: 20px solid black;
+
+}
+
+.two {
+    outline-width: 0.2rem;
+    outline-style: solid ;
+    outline-color: rgb(1, 14, 14);
+    outline-offset: -10px;
+}
